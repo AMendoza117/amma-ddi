@@ -12,10 +12,10 @@
 - [NodeJS](https://nodejs.org/en/download)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/)
 # Extensiones de VSCode
-- Paste JSON as code
-- Better Comments
-- Bloc
-- Dart Language
-- Flutter Support
-- Pubspec Assist
-- Lorem Ipsum
+- [Paste JSON as code]()
+- [Better Comments]()
+- [Bloc]()
+- [Dart Language]()
+- [Flutter Support]()
+- [Pubspec Assist]()
+- [Lorem Ipsum]()
